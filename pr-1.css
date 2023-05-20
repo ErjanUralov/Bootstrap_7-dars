@@ -1,0 +1,15 @@
+button{
+    background: white;
+}
+.nav-link:hover{
+    background: grey;
+}
+.nav-link-a1:hover{
+    background: black;
+}
+.div{
+    background: lightgray;
+    border: 1px solid transparent;
+    border-radius: 4px;
+
+}

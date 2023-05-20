@@ -1,0 +1,67 @@
+.jumbotron {
+    width: 900px;
+    margin-left: -900px;
+    margin-top: 50px;
+}
+.btn{
+    color: white;
+}
+
+.collapse{
+    margin-top: -250px;
+}
+.alert{
+    width: 170px;
+    background: #0d40fd;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding-bottom: 5px;
+    border-radius: 8px;
+}
+.auu{
+    height: 100px;
+    width: 120px;
+    position: absolute;
+    top: -15px;
+    right: 30px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding-bottom: -20px;
+    font-size: 130px;
+    box-shadow: 50px 50px 50px 50px rgb(68, 40, 224) inset;
+}
+.container {
+    position: relative;
+    height: 5000px;
+}
+.au1{
+    margin-top: -67px;
+    margin-left: 25px;
+    color: white;
+}
+.col-md-6-aa{
+    margin-left: -900px;
+    margin-top: 600px;
+    color: white;
+    width: 400px;
+}
+.col-md-3-a2{
+    color: white;
+    margin-left: -880px;
+    margin-top: 900px;
+    width: 400px
+}
+.col-md-3-a3{
+    color: white;
+    width: 400px;
+    margin-top: 900px;
+}
+.col-md-3-a4{
+    color: white;
+    width: 400px;
+    margin-top: 900px;
+}
+
+
+

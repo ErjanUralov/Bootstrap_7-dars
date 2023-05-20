@@ -1,0 +1,30 @@
+.container{
+    height: 500px;
+    background: #0d40fd;
+}
+.collapse{
+    margin-left: -18px;
+    margin-top: -380px;
+    background: black;
+    height: 60px;
+    padding: 2px;
+    border-bottom-right-radius: 8px ;
+    border-top-right-radius: 8px ;
+    text-align: center;
+    color: white;
+}
+.dropdown{
+ height: 10px;
+}
+.navbar-brand{
+    margin-top: -380px;
+    background: black;
+    height: 60px;
+    width: 120px;
+    font-size: 25px;
+}
+.btn{
+    text-decoration: none;
+    margin-top: 10px;
+    color: white;
+}
